@@ -1,0 +1,322 @@
+[
+  {
+    "question": "什麼是乳癌？",
+    "answers": {
+      "without-rag": "乳癌是一種乳腺細胞異常生長的疾病。",
+      "rag": "乳癌是起源於乳腺組織的惡性腫瘤，常見症狀包括腫塊與乳頭分泌物。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.0,
+      "rag": 5.0
+    },
+    "message_id": 0
+  },
+  {
+    "question": "胃癌有哪些治療方式？",
+    "answers": {
+      "without-rag": "通常會建議手術或化療。",
+      "rag": "胃癌的治療包含手術切除、化學治療與放射治療，依照分期而定。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.5
+    },
+    "message_id": 1
+  },
+  {
+    "question": "化學治療常見副作用是什麼？",
+    "answers": {
+      "without-rag": "掉髮、疲倦是常見的。",
+      "rag": "化療副作用包括掉髮、噁心、白血球下降、口腔潰瘍與疲倦感。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.0,
+      "rag": 4.8
+    },
+    "message_id": 2
+  },
+  {
+    "question": "什麼是白血病？",
+    "answers": {
+      "without-rag": "白血病是一種血液癌症。",
+      "rag": "白血病是起源於骨髓的癌症，導致白血球異常增生，分急性與慢性型態。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.0,
+      "rag": 4.2
+    },
+    "message_id": 3
+  },
+  {
+    "question": "乳癌篩檢的方式有哪些？",
+    "answers": {
+      "without-rag": "可以做乳房攝影。",
+      "rag": "常見篩檢方式包含乳房X光攝影（乳攝）與臨床乳房觸診。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.8,
+      "rag": 4.7
+    },
+    "message_id": 4
+  },
+  {
+    "question": "頭頸部放射線治療須知有哪些？",
+    "answers": {
+      "without-rag": "放射線治療要注意副作用。",
+      "rag": "放射線治療期間需注意口腔黏膜炎、吞嚥困難與皮膚乾燥等副作用。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.9
+    },
+    "message_id": 5
+  },
+  {
+    "question": "乳房手術後如何照顧？",
+    "answers": {
+      "without-rag": "需要避免提重物。",
+      "rag": "手術後應避免提重物、注意傷口清潔，並適時進行淋巴水腫預防運動。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.0,
+      "rag": 4.6
+    },
+    "message_id": 6
+  },
+  {
+    "question": "什麼是PET-CT檢查？",
+    "answers": {
+      "without-rag": "是一種影像檢查。",
+      "rag": "PET-CT 是結合正子掃描與電腦斷層的影像檢查，用來檢視腫瘤活動與擴散情況。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.3
+    },
+    "message_id": 7
+  },
+  {
+    "question": "什麼是肝腫瘤射頻燒灼術？",
+    "answers": {
+      "without-rag": "是治療肝腫瘤的方式。",
+      "rag": "射頻燒灼術是以高頻電流破壞肝腫瘤組織，為微創治療選項之一。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.4
+    },
+    "message_id": 8
+  },
+  {
+    "question": "癌症病人如何照顧口腔？",
+    "answers": {
+      "without-rag": "可以常漱口。",
+      "rag": "應每日使用軟毛牙刷清潔，避免辛辣食物，化療期間特別需注意口腔潰瘍。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.2,
+      "rag": 4.8
+    },
+    "message_id": 9
+  },
+  {
+    "question": "什麼是淋巴水腫？",
+    "answers": {
+      "without-rag": "是一種手術後可能產生的腫脹。",
+      "rag": "淋巴水腫常見於乳癌手術後，因淋巴液回流受阻而導致患肢腫脹。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.8,
+      "rag": 4.6
+    },
+    "message_id": 10
+  },
+  {
+    "question": "如何預防化療藥物外滲？",
+    "answers": {
+      "without-rag": "小心注射。",
+      "rag": "化療時應由專業護理人員執行注射，並注意針口是否紅腫，避免外滲。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.0,
+      "rag": 4.9
+    },
+    "message_id": 11
+  },
+  {
+    "question": "何謂癌症光免疫療法？",
+    "answers": {
+      "without-rag": "是新型癌症治療法。",
+      "rag": "癌症光免疫療法結合抗體與光敏劑，照光後產生反應選擇性破壞癌細胞。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.7,
+      "rag": 4.5
+    },
+    "message_id": 12
+  },
+  {
+    "question": "化療後免疫力會下降嗎？",
+    "answers": {
+      "without-rag": "會降低免疫。",
+      "rag": "是的，化療可能導致白血球下降，應避免人群與勤洗手。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.4
+    },
+    "message_id": 13
+  },
+  {
+    "question": "什麼是甲狀腺手術後注意事項？",
+    "answers": {
+      "without-rag": "注意聲音變化。",
+      "rag": "手術後應注意聲音沙啞、低血鈣症狀與傷口護理。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.0,
+      "rag": 4.7
+    },
+    "message_id": 14
+  },
+  {
+    "question": "如何照顧癌症病人口腔潰瘍？",
+    "answers": {
+      "without-rag": "避免吃辣。",
+      "rag": "應使用漱口水、軟毛牙刷，保持口腔清潔並避免粗硬食物刺激。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.9
+    },
+    "message_id": 15
+  },
+  {
+    "question": "子宮頸抹片檢查的目的是什麼？",
+    "answers": {
+      "without-rag": "是篩檢工具。",
+      "rag": "子宮頸抹片檢查能早期發現異常細胞，預防子宮頸癌發生。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.0,
+      "rag": 4.6
+    },
+    "message_id": 16
+  },
+  {
+    "question": "胃癌手術後怎麼吃？",
+    "answers": {
+      "without-rag": "要少量多餐。",
+      "rag": "術後建議少量多餐、避免高糖與油炸食物，並觀察營養狀況。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.9,
+      "rag": 4.8
+    },
+    "message_id": 17
+  },
+  {
+    "question": "化療病人是否能打疫苗？",
+    "answers": {
+      "without-rag": "視情況而定。",
+      "rag": "部分疫苗可在白血球回升時接種，應諮詢主治醫師評估免疫力狀況。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 2.5,
+      "rag": 4.5
+    },
+    "message_id": 18
+  },
+  {
+    "question": "什麼是乳房X光攝影？",
+    "answers": {
+      "without-rag": "是一種檢查方式。",
+      "rag": "乳房X光攝影（乳攝）是篩檢乳癌的影像工具，能早期發現病灶。"
+    },
+    "docs": {
+      "without-rag": [],
+      "rag": []
+    },
+    "feedback": {
+      "without-rag": 3.1,
+      "rag": 4.9
+    },
+    "message_id": 19
+  }
+]
