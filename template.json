@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "user123",
+        "timestamp": "2025-05-12T23:40:32Z",
+        "question": "hi",
+        "answers": {
+            "without-rag": " Hello! How can I help you today? If you have any questions or need assistance, feel free to ask. ",
+            "rag": " Hello! How can I help you today? If you have any questions or need assistance, feel free to ask. "
+        },
+        "message_id": 0,
+        "docs": {
+            "without-rag": [],
+            "rag": []
+        },
+        "feedback": {
+            "without-rag": null,
+            "rag": null
+        }
+    }
+]
